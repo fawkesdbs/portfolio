@@ -135,21 +135,26 @@ verification, admin approval workflows, and operational dashboards.
 ## Cross-Project Themes
 
 Across my projects, I consistently focus on:
-- Backend API design and correctness
-- Authentication and authorization flows
-- Data modeling and infrastructure setup
-- Type safety and reliability
-- Coordinating work across teams and branches
+- Designing and implementing backend APIs with clear contracts and invariants
+- Authentication and authorization flows in multi-user systems
+- Data modeling, persistence, and infrastructure setup
+- Type safety, validation, and correctness at system boundaries
+- Iterative refinement and refactoring of existing codebases
+- Coordinating work across teams, branches, and pull requests
+- Balancing rapid delivery with maintainable architecture in constrained environments
 
 
 
 ## Skills
 
-- Python, TypeScript, JavaScript
+- Python, TypeScript, JavaScript, Java
 - Backend development (Node.js, Express)
-- Static typing (PyLance, TypeScript)
+- API design (REST)
+- Authentication & authorization patterns
+- Data modeling and persistence (SQL, Supabase/PostgreSQL)
+- Static typing and validation (PyLance, TypeScript)
 - Language & compiler design fundamentals
-- REST API design
+- Algorithmic problem-solving and behavioral logic
 - Git & collaborative workflows
 
 

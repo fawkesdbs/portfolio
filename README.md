@@ -56,6 +56,26 @@ backend (TypeScript Node + Python Flask).
 
 **Tech:** TypeScript, Node.js, Express, React, Flask
 
+### UbuntuAI — Autonomous Bot Development  
+*EPSza Hackathon 2025 — Team Project*  
+**Role:** Primary Bot Author & Maintainer
+
+UbuntuAI is an autonomous Java-based bot developed for a competitive simulation
+environment, focused on movement strategies, targeting logic, and adaptive behavior.
+
+**My contributions included:**
+- Implemented the initial UbuntuAI bot and configuration
+- Designed and iterated on movement and combat strategies (corner strategy, operate modes)
+- Refactored bot logic to improve behavior clarity and extensibility
+- Added targeting sweeps, enemy counting, and conditional decision logic
+- Updated metadata and runtime configuration (Java 21 compatibility)
+- Performed repository cleanup by removing extraneous sample bots and files
+- Authored and merged a pull request integrating development work into main
+
+This work demonstrates **algorithmic thinking, iterative refinement, and disciplined
+refactoring within an existing codebase**, as well as responsible repository maintenance.
+
+**Tech:** Java, JSON configuration, shell scripting
 
 
 ### MoMe Travel Risk Monitor  

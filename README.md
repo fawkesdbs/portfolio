@@ -1,6 +1,6 @@
 # Siphamandla Mazibuko — Software Engineering Portfolio
 
-I am a junior software engineer based in Pretoria, South Africa, with a strong
+I am an engineer based in Pretoria, South Africa, with a strong
 interest in system design, backend development, and building tools that are
 explicit, predictable, and easy to reason about.
 
